@@ -16,10 +16,8 @@
 <img align="right" alt="chart" width="400px" src="https://github.com/zhekovdobri/Alexandragloss_Homepage_Business/blob/5b2b6f9755ae37ec11b2170459a83587f5659cc1/assets/img/Alexandragloss_Hopage_Business_Language_chart.png">
 </div>
 
-* _JavaScript_
 * _HTML_
 * _CSS_
-* _Bootstrap_
 
 <br />
 
