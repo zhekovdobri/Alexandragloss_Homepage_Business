@@ -28,13 +28,13 @@ NB!: Content some dummy "Lorem Ipsum" text.
 
 ## Directory structure:
 
-	      |── readme.md                  
-              |         __icon
-              |        |
-	      ├── assets ── img
-	      │        └── css──style.css
-	      ├── index.html
-	      └── license
+		      |── readme.md                  
+		      |      __icon
+		      |     |
+		      ├── assets ── img
+		      │     └── css──style.css
+		      ├── index.html
+		      └── license
  
 
 ## Setup/Installation Requirements
