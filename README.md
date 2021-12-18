@@ -13,7 +13,7 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class=pull-right>
-<img align="right" alt="chart" height="150px" src="https://github.com/zhekovdobri/Alexandragloss_Homepage_Business/blob/2b9406d71a2ecf84a34af17f676f2d58fadbc211/assets/img/Homepage_Business-removebg-preview.png">
+<img align="right" alt="chart" height="150px" src="https://github.com/zhekovdobri/Alexandragloss_Homepage_Business/blob/572a46d330877d942b9f882984561ea10de16d7f/assets/img/Homepage_Business-removebg-preview.png">
 </div>
 
 * _HTML_
@@ -29,8 +29,8 @@ NB!: Content some dummy "Lorem Ipsum" text.
 ## Directory structure:
 
 	      |── readme.md                  
-        |         __icon
-        |        |
+              |         __icon
+              |        |
 	      ├── assets ── img
 	      │        └── css──style.css
 	      ├── index.html
