@@ -4,7 +4,7 @@
 
 #### By: Dobri Zhekov
 
-#### JavaScript, HTML5 and CSS3 author homepage design.
+#### HTML5 and CSS3 author homepage design.
 
 ## Technologies Used
 
