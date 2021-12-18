@@ -13,7 +13,7 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class=pull-right>
-<img align="right" alt="chart" height="150px" src="https://github.com/zhekovdobri/Alexandragloss_Homepage_Business/blob/572a46d330877d942b9f882984561ea10de16d7f/assets/img/Homepage_Business-removebg-preview.png">
+<img align="right" alt="chart" height="200px" src="https://github.com/zhekovdobri/Alexandragloss_Homepage_Business/blob/676e56baf8442ad4f02fb043f4a96ff9f3733385/assets/img/Homepage_Business_language_chart.png">
 </div>
 
 * _HTML_
