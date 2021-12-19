@@ -62,5 +62,5 @@ NB!: Content some dummy "Lorem Ipsum" text.
 
 Alexandragloss_Homepage_Business project is licensed under the GNU GPL 3 license.
 
-Copiright © 2016-2021 Dobri Zhekov All Rights Reserved
+<font size="1">Copiright © 2016-2021 Dobri Zhekov All Rights Reserved</font>
 
