@@ -6,6 +6,8 @@
 
 #### HTML5 and CSS3 author homepage design.
 
+#### [<ins>Check the entire project here</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Business/)
+
 ## Technologies Used
 
 <div class=pull-left>
@@ -60,5 +62,5 @@ NB!: Content some dummy "Lorem Ipsum" text.
 
 Alexandragloss_Homepage_Business project is licensed under the GNU GPL 3 license.
 
-Copyright(c)2016-2021 Dobri Zhekov
+Copiright © 2016-2021 Dobri Zhekov All Rights Reserved
 
